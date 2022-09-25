@@ -5,7 +5,7 @@ I am Fatih Durmaz. Candidate Golang backend developer.
 Present:
 - 🔭 I’m currently working on Database Filters in @Mainflux.
 - 🌱 I’m currently learning Golang and IoT protocols
-- 📫 Reach me: fatihdurmaz@sabanciuniv.edu
+- 📫 Reach me: fatihdurmaz@alumni.sabanciuniv.edu
 
 Past:
 - I have Computer Science degree in Sabanci University
